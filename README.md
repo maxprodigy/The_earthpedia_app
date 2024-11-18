@@ -84,10 +84,6 @@ lib/
 4. Push to the branch
 5. Create a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
 ## Acknowledgments
 
 - [REST Countries API](https://restcountries.com)
@@ -96,6 +92,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yoursocialmedia](https://twitter.com/yourusername)
+Peter Johnson - [@max](https://twitter.com/@maxprodigee)
 
-Project Link: [https://github.com/yourusername/earthpedia](https://github.com/yourusername/earthpedia)
+
