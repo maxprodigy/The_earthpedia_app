@@ -13,7 +13,10 @@ A Flutter application that provides comprehensive information about countries wo
 
 ## Screenshots
 
-[Add your screenshots here]
+[<div align="center">
+  <img src="screenshots/home_screen.png" width="300" alt="Home Screen"/>
+  <img src="screenshots/country_details.png" width="300" alt="Country Details"/>
+</div>]
 
 ## Technical Stack
 
