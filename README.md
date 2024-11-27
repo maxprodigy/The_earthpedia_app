@@ -99,7 +99,7 @@ To address this, I focused on:
 
 * **Clear State Definition:** Precisely defined the state variables required for the app, including the list of countries, loading status, and error messages.
 * **Efficient Data Fetching:** Implemented efficient data fetching.
-* **Error Handling:** Created a robust error handling mechanism.
+* **Error Handling:** Created a robust error handling system.
 
 **Key Integration Points:**
 
